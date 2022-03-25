@@ -1,1 +1,2 @@
-# slope-stability
+# Slope stability
+This repository and associated spreadsheet model provides a geotechnical engineer with the tools to undertake a simplified probabilistic assessment of slope failure. Included in this report is a user-manual for the simulation tool, and an example probabilistic investigation of the uncertainty of a calculated Factor of Safety (FoS) and associated probability of failure of the design slope.
